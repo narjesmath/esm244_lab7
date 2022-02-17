@@ -1,0 +1,13 @@
+---
+title: "lab7"
+author: "Narjes Mathlouthi"
+date: "2/17/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(here)
+library(tidyverse)
+```
+
